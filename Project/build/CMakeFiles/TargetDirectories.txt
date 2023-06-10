@@ -1,0 +1,8 @@
+/Users/nikitakalinin/Documents/qt/Project/build/CMakeFiles/Project.dir
+/Users/nikitakalinin/Documents/qt/Project/build/CMakeFiles/edit_cache.dir
+/Users/nikitakalinin/Documents/qt/Project/build/CMakeFiles/rebuild_cache.dir
+/Users/nikitakalinin/Documents/qt/Project/build/CMakeFiles/list_install_components.dir
+/Users/nikitakalinin/Documents/qt/Project/build/CMakeFiles/install.dir
+/Users/nikitakalinin/Documents/qt/Project/build/CMakeFiles/install/local.dir
+/Users/nikitakalinin/Documents/qt/Project/build/CMakeFiles/install/strip.dir
+/Users/nikitakalinin/Documents/qt/Project/build/CMakeFiles/Project_autogen.dir
