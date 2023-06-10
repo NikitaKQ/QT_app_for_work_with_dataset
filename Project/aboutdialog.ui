@@ -40,7 +40,7 @@
       </font>
      </property>
      <property name="text">
-      <string>This app is a book with recipes. Every recipe has detailed information about its cooking and you can add your own recipes. Good luck, young chief.</string>
+      <string>This app is a book with recipes. Every recipe has detailed information about its cooking and you can add your own recipes. Good luck, young chief. Author: student#1665</string>
      </property>
      <property name="alignment">
       <set>Qt::AlignCenter</set>
