@@ -109,7 +109,7 @@ Qt::ItemFlags TableModel::flags(const QModelIndex &index) const
 
 void TableModel::addRow(const QList<QString>& list/*, int index*/)
 {
-    beginInsertRows(QModelIndex(), 0, 0);
+    beginInsertRows(QModelIndex(), 0, 1);
     dataTable.insert(0, list);
     endInsertRows();
 }
